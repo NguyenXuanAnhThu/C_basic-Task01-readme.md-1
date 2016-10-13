@@ -72,12 +72,16 @@ Cú pháp: `![mô tả](link)`
 ![](http://www.guidingtech.com/assets/postimages/2014/01/Download-Sublime-Text-2.png)
  2. chạy chương trình: chọn *install* -> *finish*
  
- ### công cụ hỗ trợ Sublime text : notepad, notepad ++, stackedit.....  
+ ### công cụ hỗ trợ Sublime text : notepad, notepad ++, stackedit.....
+ 
  Ví dụ :
+ 
  ![](https://duyanhweb.com/wp-content/uploads/notepad-la-gi-.jpg)
+ 
  - Dễ sử dụng.
  - Giao diện trực quan
  - Hỗ trợ sublime và nhiều ngôn ngữ lập trình
+ 
  ![](http://mualinhkien.vn/profiles/mualinhkienvn/uploads/attach/thumbnail/1456581382_cfree.jpg)
  
  ~~THE END~
