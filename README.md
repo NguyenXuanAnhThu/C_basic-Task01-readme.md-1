@@ -1,6 +1,31 @@
-Diễm Trinh
-AT13N
+## Tìm hiểu markdown, cài đặt sublime text, tìm hiểu công cụ hỗ trợ.
 
+> 
+> Thực hiện: **Phạm Thị Diễm Trinh**
+> 
+> Cập nhật lần cuối: **13/10/2016**
+
+### Mục lục
+
+[Markdown là gì?](#markdown)
+
+[1. Tạo tiêu đề](#tieude)
+
+[2. Định dạng chữ](#dinhdang)
+
+[3.Xuống dòng](#xuongdong)
+
+[4.Tạo danh sách](#danhsach)
+
+[5. Tạo  liên kết](#lienket)
+
+[6.Tạo hình ảnh](#hinhanh)
+
+[7. Bảng](#bang)
+
+[8. Cài đặt Sublime text và tìm hiểu công cụ hỗ trợ](#caidat)
+
+<a name="markdown"></a>
 #  Markdown là gì?
 - Markdown là ngôn ngữ đánh dấu văn bản thô được tạo ra bởi John Gruber. 
 - Văn bản được viết bằng Markdown sẽ có thể được chuyển đổi sang HTML và ngược lại.
@@ -11,6 +36,7 @@ AT13N
  
 #Các cú pháp thường sử dụng:  
 
+<a name="tieude"></a>
 ## 1. *Tạo tiêu đề*
 > # Tiêu đề 1 (h1)  
 ## Tiêu đề 2 (h2)  
@@ -19,13 +45,17 @@ AT13N
 ##### Tiêu đề 5 (h5)  
 ###### Tiêu đề 6 (h6)
 
+<a name="dinhdang"></a>
 ## 2. *Định dạng chữ*
 * *In nghiêng* : `*kí tự cần in nghiêng*` hoặc  `__ kí tự cần in nghiêng__`  
 * **In đậm** :`**In đậm**` hoặc `__In đậm__`  
 * ~~Gạch ngang~~: `~~gạch ngang~~`  
 
+<a name="xuongdong"></a>
 ## 3. *Xuống dòng* :  
 `<space><space>`: sử dụng hai khoảng trắng
+
+<a name="danhsach"></a>
 ## 4. *Tạo danh sách*  
 Chú pháp : `1. danh sách `
 
@@ -38,6 +68,7 @@ hoặc `-danh sách` hoặc `* danh sách`
 - danh sách 2
 - danh sách 3
 
+<a name="lienket"></a>
 ## 5. *Tạo liên kết*
 - Có thể chèn Link trực tiếp  
 http://www.pcworld.com.vn/  
@@ -47,10 +78,12 @@ hoặc
 `![Tên link](đường dẫn) (<a>)`    
 `![Tên link với chú thích](đường dẫn "chú thích") (<a name="chú thích">)`    
 
+<a name="hinhanh"></a>
 ## 6. *Tạo hình ảnh*  
 Cú pháp: `![mô tả](link)`  
 ![](http://tophinhanhdep.net/wp-content/uploads/2016/01/anh-troll-facebook-14.jpg)
 
+<a name="bang"></a>
 ##  7. *Bảng*
  Các cột được tách nhau bằng dấu ngăn thẳng đứng |   
  header được tách với content bằng dấu gạch ngang -.
@@ -67,6 +100,8 @@ Cú pháp: `![mô tả](link)`
 |    3          |        2      |  1    |
 |     2         |        4      |   1   |
 |     a         | b             |    d  |
+
+<a name="caidat"></a>
 ## 8. *Cài đặt sublime text*
  1. Vaod trang http://www.sublimetext.com/3 để download
 ![](http://www.guidingtech.com/assets/postimages/2014/01/Download-Sublime-Text-2.png)
