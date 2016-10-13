@@ -34,3 +34,25 @@ hoặc `-danh sách` hoặc `* danh sách`
 - danh sách 1
 - danh sách 2
 - danh sách 3
+
+## 5. *Tạo liên kết*
+- Có thể chèn Link trực tiếp  
+http://www.pcworld.com.vn/  
+hoặc đặt trong cặp dấu ngoặc
+`<http://www.pcworld.com.vn/>`  
+hoặc
+`![Tên link](đường dẫn) (<a>)`    
+`![Tên link với chú thích](đường dẫn "chú thích") (<a name="chú thích">)`  
+## 6. *Tạo hình ảnh*  
+Cú pháp: `![mô tả](link)`  
+![](http://tophinhanhdep.net/wp-content/uploads/2016/01/anh-troll-facebook-14.jpg)
+
+##  7.Bảng
+ Các cột được tách nhau bằng dấu ngăn thẳng đứng |   
+ header được tách với content bằng dấu gạch ngang -.
+
+|       A       |      B        | C     |
+| ------------- |:-------------:| -----:|
+|    3          |        2      |  1    |
+|     2         |        4      |   1   |
+|     a         | b             |    d  |
